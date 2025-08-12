@@ -4,14 +4,10 @@
   <sitemap>
     <loc>//localhost:1313/en/sitemap.xml</loc>
     
-      <lastmod>2024-01-01T10:00:00+07:00</lastmod>
-    
   </sitemap>
   
   <sitemap>
     <loc>//localhost:1313/vi/sitemap.xml</loc>
-    
-      <lastmod>2024-01-01T10:00:00+07:00</lastmod>
     
   </sitemap>
   
